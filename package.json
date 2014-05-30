@@ -1,0 +1,22 @@
+{
+  "name": "wpo-monitor",
+  "version": "0.0.1",
+  "description": "monitor your website speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpokit/monitor.git"
+  },
+  "keywords": [
+    "monitor"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wpokit/monitor/issues"
+  },
+  "homepage": "https://github.com/wpokit/monitor"
+}
